@@ -47,6 +47,3 @@ An interactive encyclopedia for anime enthusiasts, currently focused on Naruto w
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ovinsonlugo)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ovinsonlugo12@gmail.com)
-
----
-⚡ *"Code is like humor. When you have to explain it, it's bad."* – Cory House
