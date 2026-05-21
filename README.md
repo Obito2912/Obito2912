@@ -37,8 +37,8 @@ An interactive encyclopedia for anime enthusiasts, currently focused on Naruto w
 - **Status:** In active development
 - **Planned Features:** Multi-anime support, user authentication, community contributions
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=obito2912&show_icons=true&theme=radical)
+## 📈 GitHub Stats## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=obito2912&show_icons=true&theme=radical)
 
 ## 🌱 Currently Learning
 - Advanced React patterns and hooks
